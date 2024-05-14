@@ -140,7 +140,7 @@ programa
 	escreva("\n ERRO! Você digitou número ou caracter especial! Insira APENAS letras minúsculas!\n")
 	 }
 				
-	//Verificar se a letra é igual a da palavra ou se tem letra repetida
+	//Verificar se a letra digitada é igual a da palavra ou se o usuário digitou uma letra repetida
 	acertou = falso
      letraRepetida = falso
     para(posicao = 0; posicao < numeroLetras; posicao++)
