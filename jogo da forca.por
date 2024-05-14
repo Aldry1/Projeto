@@ -25,11 +25,11 @@ programa
 			
 	 sorteio = u.sorteia(0, 5)
 		
-	  //verifica a posiçao da palavra bo vetor e o numero de letras
+	  //verifica a posiçao da palavra no vetor e o numero de letras
 	  palavraSorteada = palavra[sorteio]
 	  numeroLetras = txt.numero_caracteres(palavraSorteada)
 	
-	 //Para iniciar o número de acertos com o mesmo número de letras para depois tirar de 1 em 1 quando o usuário acertar 
+	 //Para iniciar o número de acertos com o mesmo número de letras, para depois tirar da palavra de 1 em 1 quando o usuário acertar 
 	  acertos = numeroLetras
 		
 	 //verifica a posição da palavra sorteada no vetor e de letras na palavra para desenhar os traços
