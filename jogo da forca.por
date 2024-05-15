@@ -5,8 +5,8 @@ programa
 	
 	funcao inicio()
 	{
-	inteiro i, r, sorteio, numeroLetras, contagem, vidas = 6, acertos, posicao, letra_invalida = 0, n_invalido = 0, cont = -1, erros = 0
-	cadeia palavraSorteada, palavra[6] = {"abajur", "camisa", "livro", "cadeira", "caderno", "abacaxi"}
+	inteiro  i, r, sorteio, numeroLetras, contagem, vidas = 6, acertos, posicao, letra_invalida = 0, n_invalido = 0, cont = -1, erros = 0
+	cadeia  palavraSorteada, palavra[6] = {"abajur", "camisa", "livro", "cadeira", "caderno", "abacaxi"}
 	caracter letra, formacao[20], palavraSeparada[20], invalidos[20], letraErros[20], elemento, resposta = 's'
 	logico acertou = falso, letraRepetida = falso
 		
