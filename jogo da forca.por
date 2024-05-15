@@ -1,7 +1,7 @@
 programa
 {	
-	inclua biblioteca Texto --> txt //permite a procura por trechos dentro de um texto/palavra
-	inclua biblioteca Util --> u // utilizada para fazer o sorteio da palavra oculta
+	inclua biblioteca  Texto --> txt //permite a procura por trechos dentro de um texto/palavra
+	inclua biblioteca  Util --> u // utilizada para fazer o sorteio da palavra oculta
 	
 	funcao inicio()
 	{
