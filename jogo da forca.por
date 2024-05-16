@@ -59,7 +59,7 @@ programa
 		
     caso 6:
 	escreva("\n______")
-	escreva("\n│   ")
+	escreva("\n│    │ ")
 	para(i = 0; i <= 4; i++){
 	escreva("\n│      ")
 	  }
