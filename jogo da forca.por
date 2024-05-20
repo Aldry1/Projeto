@@ -91,7 +91,7 @@ programa
 	escreva("\n______")
 	escreva("\n│    │")
 	escreva("\n│    O  ")
-     escreva("\n│   /│  ")
+     escreva("\n│      /│  ")
 	para(i = 0; i <= 2; i++){
 	escreva("\n│      ")
 	}
